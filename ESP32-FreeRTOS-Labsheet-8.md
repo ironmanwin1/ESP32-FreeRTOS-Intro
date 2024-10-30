@@ -103,7 +103,7 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
-## ![image](https://github.com/user-attachments/assets/47181754-2781-426f-b7a7-1a724cd8c4cb)
+## ![image](https://github.com/user-attachments/assets/5bbc1919-6061-495c-912d-43cb50bb601b)
 
 ## พอกดปุ่มแล้วจะขึ้น Button pressed! ที่ terminal แสดงผลรับค่ามาจากการกดปุ่ม
 
