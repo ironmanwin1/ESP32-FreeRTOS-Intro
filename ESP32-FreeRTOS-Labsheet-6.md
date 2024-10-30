@@ -86,4 +86,10 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+## ![S__14106632](https://github.com/user-attachments/assets/c8e8178c-9f4f-41ce-a40e-9d0b3d0e594a)
+
+## ![image](https://github.com/user-attachments/assets/84ef37ae-4bfe-46da-9313-5a3b0b0c3ca2)
+
+## กดปุ่มแล้วไฟจะติดตรง LED กดอีกรอบไฟ LED จะดับ บนterminalจะขึ้นแสดงแจ้งเตือน Button pressed!
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
