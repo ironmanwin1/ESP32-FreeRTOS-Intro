@@ -88,7 +88,7 @@ void app_main(void)
 
 ## ![S__14106632](https://github.com/user-attachments/assets/c8e8178c-9f4f-41ce-a40e-9d0b3d0e594a)
 
-## ![image](https://github.com/user-attachments/assets/84ef37ae-4bfe-46da-9313-5a3b0b0c3ca2)
+## ![Screenshot 2024-10-30 214929](https://github.com/user-attachments/assets/25c5dedc-14ce-46ee-b46b-6588362c1bb6)
 
 ## กดปุ่มแล้วไฟจะติดตรง LED กดอีกรอบไฟ LED จะดับ บนterminalจะขึ้นแสดงแจ้งเตือน Button pressed!
 
