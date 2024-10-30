@@ -51,6 +51,9 @@ void app_main(void)
 
 2. รันและบันทึกผลจากโปรแกรมข้างบน
 
+## ![image](https://github.com/user-attachments/assets/bc559dcf-0685-40f6-b5a8-9ad2abde2234)
+## ขึ้น My First Task และ My Second Task พร้อมกันและนับเลข
+
 3.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
 
 ```c
@@ -63,6 +66,11 @@ void app_main(void)
 ```
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน ได้ผลเหมือนหรือต่างกันอย่างไร
+
+## ![image](https://github.com/user-attachments/assets/9cf22e20-339c-47a1-a6b4-a20d52df1dec)
+
+## ได้ผลเหมือนกันครับแต่ task ถูกสร้างกันคนตัว
+
 --------
 ### หมายเหตุ API ของ xTaskCreatePinnedToCore
 ``` c
